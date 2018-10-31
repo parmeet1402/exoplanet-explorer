@@ -62,7 +62,7 @@ Instructions:
 
   window.addEventListener('WebComponentsReady', function() {
     home = document.querySelector('section[data-route="home"]');
-    /*
+    /*exi
     Uncomment the next line you're ready to start chaining and testing!
     You'll need to add a .then and a .catch. Pass the response to addSearchHeader on resolve or
     pass 'unknown' to addSearchHeader if it rejects.
